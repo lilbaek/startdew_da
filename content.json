@@ -1,0 +1,1353 @@
+{
+    "Changes": [{
+            "Action": "EditData",
+            "Target": "Data/AdditionalLanguages",
+            "Entries": {
+                "lilbaek.da": {
+                    "LanguageCode": "da",
+                    "TimeFormat": "[HOURS_24_00]:[MINUTES]",
+                    "UseLatinFont": true,
+                    "ClockDateFormat": "[DAY_OF_WEEK] [DAY_OF_MONTH]",
+                    "ID": "lilbaek.da",
+                    "ButtonTexture": "Mods/lilbaek.da/Button",
+                    "ClockTimeFormat": "[HOURS_24_00]:[MINUTES]"
+                }
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Mods/lilbaek.da/Button",
+            "FromFile": "assets/button.png"
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Abigail",
+            "FromFile": "assets/Characters/Dialogue/Abigail.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Alex",
+            "FromFile": "assets/Characters/Dialogue/Alex.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Caroline",
+            "FromFile": "assets/Characters/Dialogue/Caroline.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Clint",
+            "FromFile": "assets/Characters/Dialogue/Clint.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Demetrius",
+            "FromFile": "assets/Characters/Dialogue/Demetrius.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Dwarf",
+            "FromFile": "assets/Characters/Dialogue/Dwarf.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Elliott",
+            "FromFile": "assets/Characters/Dialogue/Elliott.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Emily",
+            "FromFile": "assets/Characters/Dialogue/Emily.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Evelyn",
+            "FromFile": "assets/Characters/Dialogue/Evelyn.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/George",
+            "FromFile": "assets/Characters/Dialogue/George.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Gil",
+            "FromFile": "assets/Characters/Dialogue/Gil.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Gus",
+            "FromFile": "assets/Characters/Dialogue/Gus.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Haley",
+            "FromFile": "assets/Characters/Dialogue/Haley.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Harvey",
+            "FromFile": "assets/Characters/Dialogue/Harvey.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Jas",
+            "FromFile": "assets/Characters/Dialogue/Jas.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Jodi",
+            "FromFile": "assets/Characters/Dialogue/Jodi.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Kent",
+            "FromFile": "assets/Characters/Dialogue/Kent.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Krobus",
+            "FromFile": "assets/Characters/Dialogue/Krobus.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Leah",
+            "FromFile": "assets/Characters/Dialogue/Leah.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Leo",
+            "FromFile": "assets/Characters/Dialogue/Leo.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/LeoMainland",
+            "FromFile": "assets/Characters/Dialogue/LeoMainland.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Lewis",
+            "FromFile": "assets/Characters/Dialogue/Lewis.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Linus",
+            "FromFile": "assets/Characters/Dialogue/Linus.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Marnie",
+            "FromFile": "assets/Characters/Dialogue/Marnie.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/MarriageDialogue",
+            "FromFile": "assets/Characters/Dialogue/MarriageDialogue.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/MarriageDialogueAbigail",
+            "FromFile": "assets/Characters/Dialogue/MarriageDialogueAbigail.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/MarriageDialogueAlex",
+            "FromFile": "assets/Characters/Dialogue/MarriageDialogueAlex.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/MarriageDialogueElliott",
+            "FromFile": "assets/Characters/Dialogue/MarriageDialogueElliott.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/MarriageDialogueEmily",
+            "FromFile": "assets/Characters/Dialogue/MarriageDialogueEmily.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/MarriageDialogueHaley",
+            "FromFile": "assets/Characters/Dialogue/MarriageDialogueHaley.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/MarriageDialogueHarvey",
+            "FromFile": "assets/Characters/Dialogue/MarriageDialogueHarvey.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/MarriageDialogueKrobus",
+            "FromFile": "assets/Characters/Dialogue/MarriageDialogueKrobus.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/MarriageDialogueLeah",
+            "FromFile": "assets/Characters/Dialogue/MarriageDialogueLeah.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/MarriageDialogueMaru",
+            "FromFile": "assets/Characters/Dialogue/MarriageDialogueMaru.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/MarriageDialoguePenny",
+            "FromFile": "assets/Characters/Dialogue/MarriageDialoguePenny.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/MarriageDialogueSam",
+            "FromFile": "assets/Characters/Dialogue/MarriageDialogueSam.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/MarriageDialogueSebastian",
+            "FromFile": "assets/Characters/Dialogue/MarriageDialogueSebastian.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/MarriageDialogueShane",
+            "FromFile": "assets/Characters/Dialogue/MarriageDialogueShane.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Maru",
+            "FromFile": "assets/Characters/Dialogue/Maru.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Mister Qi",
+            "FromFile": "assets/Characters/Dialogue/Mister Qi.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Pam",
+            "FromFile": "assets/Characters/Dialogue/Pam.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Penny",
+            "FromFile": "assets/Characters/Dialogue/Penny.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Pierre",
+            "FromFile": "assets/Characters/Dialogue/Pierre.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/rainy",
+            "FromFile": "assets/Characters/Dialogue/rainy.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Robin",
+            "FromFile": "assets/Characters/Dialogue/Robin.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Sam",
+            "FromFile": "assets/Characters/Dialogue/Sam.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Sandy",
+            "FromFile": "assets/Characters/Dialogue/Sandy.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Sebastian",
+            "FromFile": "assets/Characters/Dialogue/Sebastian.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Shane",
+            "FromFile": "assets/Characters/Dialogue/Shane.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Vincent",
+            "FromFile": "assets/Characters/Dialogue/Vincent.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Willy",
+            "FromFile": "assets/Characters/Dialogue/Willy.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Wizard",
+            "FromFile": "assets/Characters/Dialogue/Wizard.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Achievements",
+            "FromFile": "assets/Data/Achievements.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Boots",
+            "FromFile": "assets/Data/Boots.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Bundles",
+            "FromFile": "assets/Data/Bundles.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/EngagementDialogue",
+            "FromFile": "assets/Data/EngagementDialogue.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/AbandonedJojaMart",
+            "FromFile": "assets/Data/Events/AbandonedJojaMart.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/AnimalShop",
+            "FromFile": "assets/Data/Events/AnimalShop.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/ArchaeologyHouse",
+            "FromFile": "assets/Data/Events/ArchaeologyHouse.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/Backwoods",
+            "FromFile": "assets/Data/Events/Backwoods.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/BathHouse_Pool",
+            "FromFile": "assets/Data/Events/BathHouse_Pool.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/Beach",
+            "FromFile": "assets/Data/Events/Beach.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/BoatTunnel",
+            "FromFile": "assets/Data/Events/BoatTunnel.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/BusStop",
+            "FromFile": "assets/Data/Events/BusStop.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/CommunityCenter",
+            "FromFile": "assets/Data/Events/CommunityCenter.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/DesertFestival",
+            "FromFile": "assets/Data/Events/DesertFestival.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/ElliottHouse",
+            "FromFile": "assets/Data/Events/ElliottHouse.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/Farm",
+            "FromFile": "assets/Data/Events/Farm.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/FarmHouse",
+            "FromFile": "assets/Data/Events/FarmHouse.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/FishShop",
+            "FromFile": "assets/Data/Events/FishShop.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/Forest",
+            "FromFile": "assets/Data/Events/Forest.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/HaleyHouse",
+            "FromFile": "assets/Data/Events/HaleyHouse.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/HarveyRoom",
+            "FromFile": "assets/Data/Events/HarveyRoom.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/Hospital",
+            "FromFile": "assets/Data/Events/Hospital.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/IslandHut",
+            "FromFile": "assets/Data/Events/IslandHut.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/IslandNorth",
+            "FromFile": "assets/Data/Events/IslandNorth.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/IslandSouth",
+            "FromFile": "assets/Data/Events/IslandSouth.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/IslandWest",
+            "FromFile": "assets/Data/Events/IslandWest.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/JoshHouse",
+            "FromFile": "assets/Data/Events/JoshHouse.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/LeahHouse",
+            "FromFile": "assets/Data/Events/LeahHouse.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/ManorHouse",
+            "FromFile": "assets/Data/Events/ManorHouse.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/Mine",
+            "FromFile": "assets/Data/Events/Mine.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/Mountain",
+            "FromFile": "assets/Data/Events/Mountain.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/QiNutRoom",
+            "FromFile": "assets/Data/Events/QiNutRoom.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/Railroad",
+            "FromFile": "assets/Data/Events/Railroad.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/Saloon",
+            "FromFile": "assets/Data/Events/Saloon.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/SamHouse",
+            "FromFile": "assets/Data/Events/SamHouse.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/SandyHouse",
+            "FromFile": "assets/Data/Events/SandyHouse.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/ScienceHouse",
+            "FromFile": "assets/Data/Events/ScienceHouse.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/SebastianRoom",
+            "FromFile": "assets/Data/Events/SebastianRoom.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/SeedShop",
+            "FromFile": "assets/Data/Events/SeedShop.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/Sewer",
+            "FromFile": "assets/Data/Events/Sewer.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/Sunroom",
+            "FromFile": "assets/Data/Events/Sunroom.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/Temp",
+            "FromFile": "assets/Data/Events/Temp.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/Tent",
+            "FromFile": "assets/Data/Events/Tent.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/Town",
+            "FromFile": "assets/Data/Events/Town.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/Trailer",
+            "FromFile": "assets/Data/Events/Trailer.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/Trailer_Big",
+            "FromFile": "assets/Data/Events/Trailer_Big.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/WizardHouse",
+            "FromFile": "assets/Data/Events/WizardHouse.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Events/Woods",
+            "FromFile": "assets/Data/Events/Woods.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/ExtraDialogue",
+            "FromFile": "assets/Data/ExtraDialogue.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Festivals/fall16",
+            "FromFile": "assets/Data/Festivals/fall16.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Festivals/fall27",
+            "FromFile": "assets/Data/Festivals/fall27.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Festivals/FestivalDates",
+            "FromFile": "assets/Data/Festivals/FestivalDates.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Festivals/spring13",
+            "FromFile": "assets/Data/Festivals/spring13.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Festivals/spring24",
+            "FromFile": "assets/Data/Festivals/spring24.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Festivals/summer11",
+            "FromFile": "assets/Data/Festivals/summer11.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Festivals/summer28",
+            "FromFile": "assets/Data/Festivals/summer28.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Festivals/winter25",
+            "FromFile": "assets/Data/Festivals/winter25.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Festivals/winter8",
+            "FromFile": "assets/Data/Festivals/winter8.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/hats",
+            "FromFile": "assets/Data/hats.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/mail",
+            "FromFile": "assets/Data/mail.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Monsters",
+            "FromFile": "assets/Data/Monsters.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/NPCGiftTastes",
+            "FromFile": "assets/Data/NPCGiftTastes.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/Quests",
+            "FromFile": "assets/Data/Quests.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/SecretNotes",
+            "FromFile": "assets/Data/SecretNotes.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/TV/CookingChannel",
+            "FromFile": "assets/Data/TV/CookingChannel.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Data/TV/TipChannel",
+            "FromFile": "assets/Data/TV/TipChannel.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "LooseSprites/Billboard",
+            "FromFile": "assets/LooseSprites/Billboard.da-DA.png",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "LooseSprites/ControllerMaps",
+            "FromFile": "assets/LooseSprites/ControllerMaps.da-DA.png",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/LooseSprites/Cursors.da-DA.png",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "LooseSprites/JojaCDForm",
+            "FromFile": "assets/LooseSprites/JojaCDForm.da-DA.png",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "LooseSprites/JunimoNote",
+            "FromFile": "assets/LooseSprites/JunimoNote.da-DA.png",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "LooseSprites/MobileAtlas_manually_made",
+            "FromFile": "assets/LooseSprites/MobileAtlas_manually_made.da-DA.png",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Maps/coopTiles",
+            "FromFile": "assets/Maps/coopTiles.da-DA.png",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Maps/townInterior",
+            "FromFile": "assets/Maps/townInterior.da-DA.png",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Minigames/Intro",
+            "FromFile": "assets/Minigames/Intro.da-DA.png",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Minigames/TitleButtons",
+            "FromFile": "assets/Minigames/TitleButtons.da-DA.png",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Minigames/Xb1ProfileButton",
+            "FromFile": "assets/Minigames/Xb1ProfileButton.da-DA.png",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/1_6_Strings",
+            "FromFile": "assets/Strings/1_6_Strings.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/animationDescriptions",
+            "FromFile": "assets/Strings/animationDescriptions.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/BigCraftables",
+            "FromFile": "assets/Strings/BigCraftables.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/Buildings",
+            "FromFile": "assets/Strings/Buildings.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/BundleNames",
+            "FromFile": "assets/Strings/BundleNames.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/Characters",
+            "FromFile": "assets/Strings/Characters.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/credits",
+            "FromFile": "assets/Strings/credits.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/EnchantmentNames",
+            "FromFile": "assets/Strings/EnchantmentNames.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/Events",
+            "FromFile": "assets/Strings/Events.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/FarmAnimals",
+            "FromFile": "assets/Strings/FarmAnimals.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/Furniture",
+            "FromFile": "assets/Strings/Furniture.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/Lexicon",
+            "FromFile": "assets/Strings/Lexicon.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/Locations",
+            "FromFile": "assets/Strings/Locations.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/MovieConcessions",
+            "FromFile": "assets/Strings/MovieConcessions.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/MovieReactions",
+            "FromFile": "assets/Strings/MovieReactions.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/Movies",
+            "FromFile": "assets/Strings/Movies.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/Notes",
+            "FromFile": "assets/Strings/Notes.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/NPCNames",
+            "FromFile": "assets/Strings/NPCNames.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/Objects",
+            "FromFile": "assets/Strings/Objects.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/Pants",
+            "FromFile": "assets/Strings/Pants.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/Quests",
+            "FromFile": "assets/Strings/Quests.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Abigail",
+            "FromFile": "assets/Strings/schedules/Abigail.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Alex",
+            "FromFile": "assets/Strings/schedules/Alex.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Caroline",
+            "FromFile": "assets/Strings/schedules/Caroline.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Clint",
+            "FromFile": "assets/Strings/schedules/Clint.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Demetrius",
+            "FromFile": "assets/Strings/schedules/Demetrius.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Elliott",
+            "FromFile": "assets/Strings/schedules/Elliott.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Emily",
+            "FromFile": "assets/Strings/schedules/Emily.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Evelyn",
+            "FromFile": "assets/Strings/schedules/Evelyn.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/George",
+            "FromFile": "assets/Strings/schedules/George.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Gus",
+            "FromFile": "assets/Strings/schedules/Gus.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Haley",
+            "FromFile": "assets/Strings/schedules/Haley.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Harvey",
+            "FromFile": "assets/Strings/schedules/Harvey.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Jas",
+            "FromFile": "assets/Strings/schedules/Jas.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Jodi",
+            "FromFile": "assets/Strings/schedules/Jodi.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Leah",
+            "FromFile": "assets/Strings/schedules/Leah.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Leo",
+            "FromFile": "assets/Strings/schedules/Leo.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Lewis",
+            "FromFile": "assets/Strings/schedules/Lewis.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Linus",
+            "FromFile": "assets/Strings/schedules/Linus.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Marnie",
+            "FromFile": "assets/Strings/schedules/Marnie.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Maru",
+            "FromFile": "assets/Strings/schedules/Maru.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Pam",
+            "FromFile": "assets/Strings/schedules/Pam.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Penny",
+            "FromFile": "assets/Strings/schedules/Penny.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Pierre",
+            "FromFile": "assets/Strings/schedules/Pierre.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Robin",
+            "FromFile": "assets/Strings/schedules/Robin.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Sam",
+            "FromFile": "assets/Strings/schedules/Sam.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Sandy",
+            "FromFile": "assets/Strings/schedules/Sandy.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Sebastian",
+            "FromFile": "assets/Strings/schedules/Sebastian.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Shane",
+            "FromFile": "assets/Strings/schedules/Shane.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Vincent",
+            "FromFile": "assets/Strings/schedules/Vincent.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/schedules/Willy",
+            "FromFile": "assets/Strings/schedules/Willy.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/Shirts",
+            "FromFile": "assets/Strings/Shirts.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/SimpleNonVillagerDialogues",
+            "FromFile": "assets/Strings/SimpleNonVillagerDialogues.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/SpecialOrderStrings",
+            "FromFile": "assets/Strings/SpecialOrderStrings.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/SpeechBubbles",
+            "FromFile": "assets/Strings/SpeechBubbles.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/StringsFromCSFiles",
+            "FromFile": "assets/Strings/StringsFromCSFiles.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/StringsFromMaps",
+            "FromFile": "assets/Strings/StringsFromMaps.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/Tools",
+            "FromFile": "assets/Strings/Tools.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/UI",
+            "FromFile": "assets/Strings/UI.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/Weapons",
+            "FromFile": "assets/Strings/Weapons.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }, {
+            "Action": "Load",
+            "Target": "Strings/WorldMap",
+            "FromFile": "assets/Strings/WorldMap.da-DA.json",
+            "when": {
+                "Language": "da"
+            }
+        }
+    ],
+    "Format": "2.0.0"
+}

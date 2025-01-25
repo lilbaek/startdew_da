@@ -1,0 +1,22 @@
+{
+  "RandomNegativeItemNoun": "skrald#affald#lort#madskarn#skidt",
+  "RandomPositiveAdjective_Child": "cool#sjov#fed#dejlig#smart#super#fantastisk",
+  "RandomPositiveAdjective_AdultMale": "interessant#spændende#fed#sjov#fantastisk#fantastisk",
+  "RandomPositiveAdjective_AdultFemale": "vidunderlig#fantastisk#hjertevarm#magisk#utrolig#dejlig#opkvikkende#fortryllende",
+  "RandomPositiveAdjective_PlaceOrEvent": "vidunderlig#fantastisk#hjertevarm#magisk#utrolig#dejlig#opkvikkende#fortryllende",
+  "RandomDeliciousAdjective": "lækkert#velsmagende#vidunderligt#tilfredsstillende#mættende#lækkert#appetitligt#fortryllende",
+  "RandomDeliciousAdjective_Child": "lækkert",
+  "RandomNegativeFoodAdjective_Child": "ulækker",
+  "RandomNegativeFoodAdjective_Polite": "...interessant#...usædvanlig#...anderledes#...ukonventionel",
+  "RandomNegativeFoodAdjective": "gammel#ulækker#frastødende#rædselsfuld#frastødende#afskyelig#frygtelig#nauseerende#foul#horrendum#rådden",
+  "RandomSlightlyPositiveFoodAdjective": "anvendelig#god#spiselig",
+  "ChildTerm_Male": "dreng",
+  "ChildTerm_Female": "pige",
+  "Pronoun_Male": "ham",
+  "Pronoun_Female": "hende",
+  "QuestionDialogue_Yes": "Ja",
+  "QuestionDialogue_No": "Nej",
+  "GenericPlayerTerm": "landmand",
+  "Possessive_Pronoun_Male": "hans",
+  "Possessive_Pronoun_Female": "hendes"
+}

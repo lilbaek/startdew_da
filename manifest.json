@@ -1,0 +1,11 @@
+{
+	"Name": "da",
+	"Author": "lilbaek",
+	"Version": "0.0.1",
+	"Description": "Translates the base game to da",
+	"UniqueID": "lilbaek.da",
+	"UpdateKeys": [],
+	"ContentPackFor": {
+		"UniqueID": "Pathoschild.ContentPatcher"
+	}
+}
