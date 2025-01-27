@@ -1,7 +1,7 @@
 {
   "Introduction": "Hmmph... Det er irriterende at skulle møde alle disse nye mennesker, huh?#$b#Mit navn er George, forresten. Nu forsvind... Hmmph.",
   "AcceptGift_(O)StardropTea": "Hmm... *sip*... ahhh... Smager lige som Mamas tungratangsret! Lækkert!",
-  "accept_867": "Hvad er dette?#$b#Hmmph... så du trykker på denne knap først? Hvad gør denne knap? Hmmph... *grumle*#$b#Hehe! Nå, hvad med det! Det er en ny kanal!$h#$b#Her, tag dette. Det er en sten, jeg fandt, da jeg var kulminearbejder i gamle dage. Morsomt, den har glødt blå og forblevet kold i over fyrre år. Ligesom magi!",
+  "accept_867": "Hvad er dette?#$b#Hmmph... så du trykker på denne knap først? Hvad gør denne knap? Hmmph... *grumle*#$b#Hehe! Nå, hvad med det! Det er en ny kanal!$h#$b#Her, tag dette. Det er en sten, jeg fandt, da jeg var kulminearbejder i de gamle dage. Morsomt, den har glødt blå og forblevet kold i over fyrre år. Ligesom magi!",
   "GreenRain": "Der, der, skat... Bekymre dig ikke.%noturn#$b#Selv hvis det er giftigt, har jeg indåndet mere giftig gas på et minut tilbage i de gamle kulminer... Og jeg er stadig i live!",
   "GreenRain_2": "Det ser ud til, at de unge skal lave lidt ekstra ukrudtsryddelse efter dette... Heheh...$h",
   "pamHouseUpgrade": "Tak for at have udskiftet den slidte gamle trailer... det nye hus er meget pænere at se på.#$e#Du ved, jeg er sikker på, at det også øger værdien af vores ejendom!",
@@ -11,11 +11,11 @@
   "eventSeen_18_memory_oneweek": "Jeg kan virke ude af kontakt, men når du har været her så længe som jeg har, lærer du et par ting om livets veje. Det kaldes 'visdom'.#$b#Unge mennesker forstår ikke det store billede. Hvordan kunne de?",
   "married_Alex": "...Hmmph.^Jeg vil gerne blive oldefar, før jeg dør. Tror du, du kan få det til at ske?",
   "divorced_once": "Hmmph... tog den nemme udvej, huh?#$e#Folk i dag behandler ægteskab som et fjernsyn... Hvis du bliver træt af det, så skift kanal! I mine dage... *klynk*",
-  "joja_Begin": "Så... det gamle Fællesskabscenter er væk, huh? Hvad er der sket med småby-værdier? Det er en skam, hvordan tiderne er ændret...",
+  "joja_Begin": "Så... det gamle Fællesskabscenter er væk, huh? Hvad er der sket med småbyens værdier? Det er en skam, hvordan tiderne er ændret...",
   "Mon": "Jeg er ikke meget for at snakke. Især ikke med fremmede, hvis du ikke har noget imod, jeg siger.",
   "Tue": "Hmmph... Ser ud til en anden dyster dag.$s",
-  "Wed": "Alex er min barnebarn. Har jeg allerede fortalt dig det?#$e#Huh? Tal højere.",
-  "Wed_inlaw_Alex": "Hvordan kan to mænd gifte sig? Det er unaturalt... Hmmph. Jeg gætter på, jeg er bare \"gammeldags\"...^Du er en del af familien nu. Jeg er glad for, at min barnebarn fandt så en sød kone.",
+  "Wed": "Alex er mit barnebarn. Har jeg allerede fortalt dig det?#$e#Huh? Tal højere.",
+  "Wed_inlaw_Alex": "Hvordan kan to mænd gifte sig? Det er unaturalt... Hmmph. Jeg gætter på, jeg er bare \"gammeldags\"...^Du er en del af familien nu. Jeg er glad for, at mit barnebarn fandt så en sød kone.",
   "Wed10_inlaw_Alex": "Jeg må indrømme, jeg syntes, det var... mærkeligt... for to mænd at være sammen. Men du er sådan en sød ung mand, og jeg ved, I to er forelskede... Jeg har ændret mening.^Du er en del af familien nu... og jeg kunne ikke være mere stolt.",
   "Thu": "Jeg kan ikke tale lige nu, ung mand.^Jeg kan ikke tale lige nu, frøken.#$e#Mit yndlingsprogram er i gang.",
   "Fri": "Så du er en landmand, huh? I det mindste er det ærligt arbejde.",
@@ -29,7 +29,7 @@
   "Fri10": "Du ved, jeg har virkelig været en gnaven gammel mand overfor alle. Men nu føler jeg, at jeg bliver blødere, som en gammel, moden frugt. Hehe!$h#$e#Pas på dig selv, dreng.^Pas på dig selv, skat.",
   "Wed10": "@! Lad mig slukke for dette pokkers fjernsyn, så vi kan have en lille snak.$h#$e#Så hvad laver de unge mennesker i dag?",
   "Tue10": "Du ved, jeg burde ikke blive for deprimeret over mine ben.#$e#Jeg burde bare være glad for, at jeg er i live.$h",
-  "Thu10": "Når du bliver så gammel som mig, er det meget sværere at tilpasse sig nye ting.#$e#En dag vil du vide, hvad jeg mener.#$e#Kom nu, nyd dig selv, mens du stadig er ung.",
+  "Thu10": "Når du bliver så gammel som mig, er det meget sværere at tilpasse sig nye ting.#$e#En dag vil du vide, hvad jeg mener.#$e#Kom nu, nyd livet, mens du stadig er ung.",
   "winter_1": "Åh... Det er så koldt.#$e#Når du er ung, bider kulden ikke så hårdt.",
   "WinterStar_GiveGift_After": "Du kan ikke lide det, hva? Bah! Børn i dag... ingen påskønnelse for noget. Det var dyrt, og jeg er ikke lavet af penge, ved du!"
 }

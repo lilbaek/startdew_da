@@ -1,6 +1,6 @@
 {
   "Mon": "Jeg kender dig ikke. Hvorfor taler du til mig?",
-  "AcceptBirthdayGift_Loved": "Åh, er det min fødselsdag? Jeg håbede, jeg ville glemme det.#$b#Dette er faktisk virkelig rart, tak.$h",
+  "AcceptBirthdayGift_Loved": "Åh, er det min fødselsdag? Jeg håbede, jeg ville glemme det.#$b#Det er faktisk virkelig rart, tak.$h",
   "AcceptBirthdayGift_Liked": "Åh, er det min fødselsdag? Det er rigtigt... Jeg næsten glemte det. Tak.",
   "GreenRain": "Jeg skal ikke på arbejde i dag, så jeg klager ikke...",
   "GreenRain_2": "Åh, er der en slags mærkelig vejr i dag? Jeg lagde ikke mærke til det.",
@@ -40,7 +40,7 @@
   "Wed8": "Jeg gætter på, at jeg er blevet knyttet til Marnie og Jas. Vi er en samling af skæve eksistenser, men det føles lidt som en mærkelig familie.#$e#Jeg havde aldrig rigtig meget af en familie som barn.$s",
   "Wed4": "$d Joja#*suk* ...Hver dag er den samme. At fylde de forfærdelige hylder, gå til saloonen, vende og dreje mig hele natten.$s|Jeg hadede mit job hos JojaMart, men nu hvor jeg er arbejdsløs, føler jeg mig endnu værre.$s",
   "Thu": "Hvad vil du have? Lad mig være alene.",
-  "Thu4": "Du er virkelig vedholdende. Jeg gætte på, at jeg bare er overrasket over, at nogen ville være interesseret i at tale med mig.",
+  "Thu4": "Du er virkelig vedholdende. Jeg gætter på, at jeg bare er overrasket over, at nogen ville være interesseret i at tale med mig.",
   "Thu6": "Buh... Hvor er Joja Cola?||Hvorfor prøve? Livet er bare et kast af terninger.#$e#Da de kastede mine, rullede terningerne af bordet.",
   "Thu8": "Kan du lide at tale med mig? Jeg gætter på, jeg tror på dig... måske er du lige så mærkelig som jeg er.$h",
   "Fri": "Har du ikke arbejde at lave?",
@@ -68,6 +68,6 @@
   "event_apologize1": "...Ja, mig også.",
   "event_apologize2": "Jeg ved... derfor stoppede jeg forbi for at fortælle dig om det.",
   "event_apologize3": "Wow, var det så alvorligt, huh? Jeg kan næsten ikke huske...",
-  "event_stadium1": "Åh ja? Jeg gætte, det giver mening.$6#$b#Mig? Jeg bliver nogle gange ked af det med Pelican Town.#$b#Men... jeg kan lide, at du er forskellig. Vi balancerer hinanden.$l",
+  "event_stadium1": "Åh ja? Jeg gætter, det giver mening.$6#$b#Mig? Jeg bliver nogle gange ked af det med Pelican Town.#$b#Men... jeg kan lide, at du er forskellig. Vi balancerer hinanden.$l",
   "event_stadium2": "Åh virkelig? Jeg er overrasket... Flyttede du ikke til Stardew Valley for at undslippe byens larm?$6#$b#Jeg mener... Misforstå mig ikke, jeg forstår det fuldstændigt. Mit liv i Pelican Town er ret kedeligt, ved du."
 }
