@@ -275,7 +275,7 @@
   "CoopMenu_NoSlots": "Ingen ledige hytter",
   "CoopMenu_NewFarmhand": "Ny landmand",
   "CoopMenu_HostFile": "Vær vært for {1} gård",
-  "CoopMenu_RevisitFriendFarm": "Genjoin {0} gård",
+  "CoopMenu_RevisitFriendFarm": "Join {0} gård",
   "CoopMenu_JoinFriendFarm": "Join {0} gård",
   "CoopMenu_Refresh": "Opdater",
   "OptionsPage_MultiplayerSection": "Flerspiller",
